@@ -1,4 +1,4 @@
-var playlists = { Kaskade: "Last Chance",
+var playlist = { Kaskade: "Last Chance",
                Illenium: "Beautiful Creatres",
                Gryffin: "Tie Me down"
 };
@@ -8,7 +8,7 @@ function updatePlaylist(playlist, artistName, songTitle){
   return playlist;
 }
 
-function removeFromPlaylist(playst, artist){
+function removeFromPlaylist(playlist, artist){
   delete playlist.Gryffin;
   return playlist;
 }
