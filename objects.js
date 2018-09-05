@@ -3,4 +3,6 @@ var playist = { Kaskade: "Last Chance",
               { Gryffin: "Tie Me down"
 }
 
-function updatePlaylist(playlist, artist, song_title)
+function updatePlaylist(playlist, 'artist', 'song_title'){
+  return
+}
