@@ -4,7 +4,7 @@ var playlist = { Kaskade: "Last Chance",
 };
 
 function updatePlaylist(playlist, artist, song_title){
-  playlist.Flume = 'Fire';
+  playlist.artist = song_title;
   return playlist;
 }
 
