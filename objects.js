@@ -1,4 +1,4 @@
-var playist = { Kaskade: "Last Chance",
+var playlist = { Kaskade: "Last Chance",
                Illenium: "Beautiful Creatres",
                Gryffin: "Tie Me down"
 };
