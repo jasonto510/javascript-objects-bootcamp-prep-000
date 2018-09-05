@@ -1,4 +1,4 @@
-var playlist = { Kaskade: "Last Chance",
+var playlists = { Kaskade: "Last Chance",
                Illenium: "Beautiful Creatres",
                Gryffin: "Tie Me down"
 };
