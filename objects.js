@@ -3,8 +3,8 @@ var playlist = { Kaskade: "Last Chance",
                Gryffin: "Tie Me down"
 };
 
-function updatePlaylist(playlist, artist, song_title){
-  playlist.artist = song_title;
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist.artistName = songTitle;
   return playlist;
 }
 
